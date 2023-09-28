@@ -1,0 +1,196 @@
+.logo-image {
+    padding-top: 40px;
+    padding-left: 240px;
+    width: 115px;
+    height: 65px;
+  }
+  .house1 {
+    margin-top: 215px;
+    margin-left: 362px;
+    height: 600px;
+  }
+  .house2 {
+    margin-right: 25px;
+    margin-left: 362px;
+    margin-top: 60px;
+    width: 219px;
+    height: 219px;
+  }
+  .house3 {
+    margin-right: 25px;
+    margin-top: 60px;
+    width: 219px;
+    height: 219px;
+  }
+  .house4 {
+    margin-right: 25px;
+    margin-top: 60px;
+    width: 219px;
+    height: 219px;
+  }
+  .house5 {
+    margin-right: 25px;
+    margin-top: 60px;
+    width: 219px;
+    height: 219px;
+  }.house6 {
+    margin-right: 25px;
+    margin-top: 60px;
+    width: 219px;
+    height: 219px;
+  }
+  header {
+    width: 1920px;
+    height: 388px;
+    background-color: #0a22f4;
+  }
+  footer {
+    width: 1920px;
+    background-color: #0a22f4;
+  }
+  h1 {
+    padding-left: 362px;
+    color: #171717;
+    font-size: 28px;
+  }
+  .main-p {
+    padding-left: 485px;
+    color: #171717;
+    font-size: 16px;
+  }
+  h4 {
+    padding-top: 275px;
+    padding-left: 240px;
+    font-size: 32px;
+    color: #ffffff;
+  }
+  .footer-text {
+    padding-top: 30px;
+    padding-bottom: 58px;
+    padding-left: 240px;
+    width: 463px;
+    font-size: 16px;
+    color: #ffffff;
+  }
+  .map {
+    padding-left: 240px;
+    height: 197px;
+  }
+  .icon {
+    margin-left: 240px;
+    background-color: #ffffff;
+    height: 26px;
+  }
+  .logo-image2 {
+    height: 35px;
+  }
+  .love-icon {
+    height: 26px;
+  }
+  .last-p {
+    font-size: 13px;
+  }
+  .icon-p {
+    margin-left: 240px;
+    font-size: 22px;
+  }
+  .additional-information {
+    color: #FFFFFF;
+    margin-left: 847px;
+    font-size: 16px;
+    background-color: #0a22f4;
+  }
+  .li1{
+    margin-right: 802px;
+    margin-bottom: 36px;
+    margin-left: 603px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .li2{
+    margin-top: 37px;
+    margin-right: 664px;
+    margin-bottom: 36px;
+    margin-left: 716px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .li3{
+    margin-top: 37px;
+    margin-right: 529px;
+    margin-bottom: 36px;
+    margin-left: 864px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .li4{
+    margin-top: 37px;
+    margin-right: 393px;
+    margin-bottom: 36px;
+    margin-left: 991px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .li5{
+    margin-top: 37px;
+    margin-right: 238px;
+    margin-bottom: 36px;
+    margin-left: 1124px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .li6{
+    margin-top: 37px;
+    margin-right: 79px;
+    margin-bottom: 36px;
+    margin-left: 1315px;
+    font-size: 16px;
+    color: #171717;
+    text-decoration: none;
+    background-color: #FFFFFF;
+  }
+  ul{
+    list-style: none;
+  }
+  button{
+    margin-left: 240px;
+  }
+  .name{
+    color: #FFFFFF;
+    margin-left: 240px;
+  }
+  .email{
+    color: #FFFFFF;
+    margin-left: 240px;
+  }
+  .phonenumber{
+    color: #FFFFFF;
+    margin-left: 240px;
+  }
+  .text{
+    color: #FFFFFF;
+    margin-left: 240px;
+  }
+  input{
+    margin-bottom: 81px;
+  }
+  .logo-image2{
+    padding-top: 1013px;
+    padding-right: 241px;
+    padding-bottom: 32px;
+    padding-left: 1558px;
+    width: 121px;
+    height: 35px;
+  }
+  .love-icon{
+    padding-right: 428px;
+    padding-bottom: 37px;
+    padding-left: 1466px;
+    width: 26px;
+    height: 26px;
+  }
